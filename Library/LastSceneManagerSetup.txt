@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Endless-Dipper Impossible.unity
+  isLoaded: 1
+  isActive: 1
